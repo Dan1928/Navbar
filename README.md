@@ -1,0 +1,1 @@
+Minha primeira Navbar. Super simples, foi aplicado um pouco de responsividade com "@media (max-width: 999px)"
